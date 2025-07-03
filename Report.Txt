@@ -1,0 +1,21 @@
+Task 7 – Suspicious Firefox Extension Removal
+
+Browser: Mozilla Firefox
+
+Today I checked all the extensions installed on my Firefox browser to find anything suspicious. I opened the extensions manager using `about:addons` and carefully reviewed each one.
+
+🔍 Suspicious Extension Found:
+Name: PDF Converter Pro  
+Issue:
+- Had access to all website data (unnecessary for a PDF tool).
+- No proper publisher info.
+- Found multiple Reddit posts and forums warning about hidden tracking.
+- I didn’t even remember installing it.
+
+✅ Action Taken:
+I removed the extension immediately and restarted my browser.
+
+💡 What I Learned:
+This task made me realize how easy it is to install shady add-ons without thinking. I’ll now always check permissions and reviews before adding anything new. Better to be safe than sorry.
+
+– Rohit
